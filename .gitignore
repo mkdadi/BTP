@@ -1,4 +1,4 @@
-bin
-lib
-local
-include
+/bin/
+/lib/
+/local/
+/include/
